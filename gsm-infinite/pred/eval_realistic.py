@@ -44,7 +44,10 @@ def criteriaoutput(generatedtext, inputexample):
             if idx_generated_begin != -1: 
                 if keywordsend[cnt] is None: 
                     idx_generated_conclude = idx_generated_begin + len(keywords[cnt]) 
-                    while generatedtext[0][idx_generated_conclude].isdigit() == True: 
+                    while (
+                        idx_generated_conclude < len(generatedtext[i])
+                        and generatedtext[i][idx_generated_conclude].isdigit() == True
+                    ): 
                         idx_generated_conclude += 1 
                 else: 
                     idx_generated_conclude = generatedtext[i].find(keywordsend[cnt], idx_generated_begin + len(keywords[cnt])) 
