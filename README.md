@@ -22,8 +22,8 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2502.05252)
 [![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://infini-ai-lab.github.io/gsm_infinite/)
-[![Leaderboard](https://img.shields.io/badge/🤗-Leaderboard-yellow)](https://infiniailab-gsm-infinite-leaderboard.hf.space)
-[![Datasets](https://img.shields.io/badge/🤗-Datasets-green)](https://huggingface.co/collections/InfiniAILab/gsm-infinite-67aa7b323eb5c4d9c693fe6a)
+[![Leaderboard](https://img.shields.io/badge/HuggingFace-Leaderboard-yellow)](https://infiniailab-gsm-infinite-leaderboard.hf.space)
+[![Datasets](https://img.shields.io/badge/HuggingFace-Datasets-green)](https://huggingface.co/collections/InfiniAILab/gsm-infinite-67aa7b323eb5c4d9c693fe6a)
 <!-- [![License](https://img.shields.io/badge/License-MIT-purple)](LICENSE) -->
 
 </div>
