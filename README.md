@@ -1,3 +1,13 @@
+﻿<!-- ARTEMIS-IGNIS-BRANDING:START -->
+<p align="center">
+  <img src="docs/assets/artemis-ignis-banner.png" alt="Artemis-Ignis banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="docs/assets/artemis-ignis-emblem.png" alt="Artemis-Ignis emblem" width="320" />
+</p>
+<!-- ARTEMIS-IGNIS-BRANDING:END -->
+
 <div align="center">
 <h1><img src="static/images/facinfinity.webp" height="30px" align="top"/> GSM-Infinite</h1>
 <p><em>Infinitely Scalable Long-context Reasoning Benchmark for Large Language Models</em></p>
@@ -193,4 +203,5 @@ If you use GSM-Infinite in your research, please cite our paper:
 <div align="center">
 Made with ❤️ by the Infini-AI Lab team
 </div>
+
 
